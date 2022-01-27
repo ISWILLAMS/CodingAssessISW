@@ -50,4 +50,4 @@ First, I removed the cycle from the series in order to get the trend line, but i
 
 Forecasting with a linear model shows that this is true (mean ~ 4.5), and R-squared below 1%. Specifiying a higher order polynomial barely improves the model because the sequence is so noisy.
 
-The most interesting observation is that each digit almost occurs equally, and not skewed towards any other digit. From a time series perspective, the ability to forecast is a mighty task. I cannot  conclude it is irrational based on the methods I used here. However the seemingly random sequence of numbers do not help forcast future numbers.
+The most interesting observation is that each digit almost occurs equally, and not skewed towards any other digit. From a time series perspective, the ability to forecast is a mighty task. I cannot conclude it is irrational based on the methods I used here. However the seemingly random sequence of numbers do not help forecast future numbers.
